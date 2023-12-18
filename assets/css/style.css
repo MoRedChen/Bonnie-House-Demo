@@ -600,7 +600,7 @@ section {
 .insistences .icon-box::before {
     content: "";
     position: absolute;
-    background: #fdeff2;
+    background: #effdf5;
     right: 0;
     left: 0;
     bottom: 0;
