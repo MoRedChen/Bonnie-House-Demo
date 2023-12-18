@@ -13,7 +13,7 @@ a {
 }
 
 a:hover {
-    color: #ea6981;
+    color: #69eaae;
     text-decoration: none;
 }
 
@@ -199,7 +199,7 @@ h6 {
     padding: 10px 20px;
     font-size: 14px;
     text-transform: none;
-    color: #493c3e;
+    color: #3c4944;
 }
 
 .navbar .dropdown ul a i {
@@ -270,7 +270,7 @@ h6 {
     right: 0;
     left: 0;
     bottom: 0;
-    background: rgba(45, 37, 38, 0.9);
+    background: rgba(37, 45, 40, 0.9);
     transition: 0.3s;
     z-index: 999;
 }
@@ -308,7 +308,7 @@ h6 {
 .navbar-mobile a:focus {
     padding: 10px 20px;
     font-size: 15px;
-    color: #493c3e;
+    color: #3c4943;
 }
 
 .navbar-mobile a:hover,
@@ -489,7 +489,7 @@ section {
     padding: 8px 20px;
     line-height: 1;
     margin: 0;
-    background: #fdeff2;
+    background: #effdf8;
     color: #469b70;
     display: inline-block;
     text-transform: uppercase;
@@ -891,7 +891,7 @@ section {
     float: left;
     width: 44px;
     height: 44px;
-    background: #fdeff2;
+    background: #effdf5;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -904,14 +904,14 @@ section {
     font-size: 22px;
     font-weight: 600;
     margin-bottom: 5px;
-    color: #493c3e;
+    color: #3c4943;
 }
 
 .contact .info p {
     padding: 0 0 0 60px;
     margin-bottom: 0;
     font-size: 14px;
-    color: #816a6e;
+    color: #6a8176;
 }
 
 .contact .info .email,
@@ -1056,7 +1056,7 @@ section {
 .breadcrumbs ol li+li::before {
     display: inline-block;
     padding-right: 10px;
-    color: #655356;
+    color: #53655d;
     content: "/";
 }
 
