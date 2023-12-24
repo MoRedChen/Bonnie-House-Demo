@@ -14,3 +14,5 @@ For display purposes only, not for commercial use.
 <br>
 **1.0.6**: change index language
 <br>
+**1.0.7**: added error_404 page, bug fixed
+<br>
